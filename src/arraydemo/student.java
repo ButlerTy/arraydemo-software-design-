@@ -5,7 +5,7 @@
 package arraydemo;
 
 /**
- *
+ * this comment was added on Jan 16th
  * @author tybutler
  */
 public class student {
